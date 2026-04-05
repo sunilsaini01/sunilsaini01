@@ -7,3 +7,22 @@
 </p>
 
 -->
+
+<!-- ================= BADGES ================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/IIIT%20Lucknow-Student-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Enthusiast-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Active-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Consistent-red?style=for-the-badge" />
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🎓 MSc Artificial Intelligence And Machine Learning student at **IIIT Lucknow**  
+- 💡 Passionate about solving **real-world problems using ML & Data**  
+- 🚀 Exploring **Deep Learning, LLMs, and Generative AI**  
+- 🧠 Strong foundation in **Machine Learning + Problem Solving**  
+
+---
