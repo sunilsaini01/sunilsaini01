@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?lines=Machine+Learning+Enthusiast;Machine+Learning+Engineer+in+Progress;LLMs+%7C+GenAI+Explorer;DSA+Practitioner&center=true&width=550&height=45">
 </p>
 
--->
 
 <!-- ================= BADGES ================= -->
 <p align="center">
