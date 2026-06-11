@@ -4,9 +4,15 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Machine+Learning+Enthusiast;Machine+Learning+Engineer+in+Progress;LLMs+%7C+GenAI+Explorer;DSA+Practitioner&center=true&width=550&height=45">
-</p>
+</a>
 
-
+<!-- ═══════════════════ PROFILE VIEWS + FOLLOWERS ═══════════════════ -->
+<br/>
+<img src="https://komarev.com/ghpvc/?username=sunilsaini01&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/sunilsaini01?label=Followers&style=flat-square&color=0e75b6" alt="Followers"/>
+&nbsp;
+</div>
 
 <!-- ================= BADGES ================= -->
 <p align="center">
@@ -29,26 +35,31 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,sql" />
-</p>
+<div align="center">
 
-### 🚀 Domains
-<p>
-  <img src="https://skillicons.dev/icons?i=ai" />
-</p>
+### 💬 Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql&theme=dark" />
 
-- Machine Learning  
-- Deep Learning  
-- LLMs & Generative AI  
-- Data Science & Mathematics  
-- Data Structures & Algorithms
+### 🤖 ML / AI Frameworks
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
 
-- ### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,pycharm" />
-</p>
+### 📊 Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+### 🧬 Generative AI
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Architecture-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 🧰 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter" />
 
 ---
 
@@ -93,6 +104,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilsaini01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+<!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunilsaini01&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff9900&area=true&area_color=58a6ff&hide_border=true" width="95%"/>
+</div>
 
 ---
 
