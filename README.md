@@ -60,11 +60,8 @@
 ---
 
 
-<div align="center">
   
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ### 💬 Languages
 <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql&theme=dark" />
