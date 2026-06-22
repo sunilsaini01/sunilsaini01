@@ -134,10 +134,5 @@ Quote    : "Build. Break. Learn. Repeat."
 
 ---
 
-## 💡 Quote
-
-> "Build. Break. Learn. Repeat."
-
----
 
 ⭐ **If you like my work, consider giving a star!**
