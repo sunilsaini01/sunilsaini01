@@ -41,19 +41,13 @@ focus:
   - Generative AI Systems
   -  Improving **SQL & data analysis skills**
 
+
 currently_building:
   - Machine Learning & Deep Learning Projects 
   - GenAI-powered applications
 
 Quote    : "Build. Break. Learn. Repeat."
 ```
-
----
-## 🎯 Current Focus
-
-- 🤖 Building strong **ML & Deep Learning** fundamentals  
-- 🧠 Exploring **LLMs & GenAI systems**  
-- 📊 Improving **SQL & data analysis skills**  
 
 ---
 
