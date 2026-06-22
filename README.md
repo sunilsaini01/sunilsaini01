@@ -14,13 +14,6 @@
 &nbsp;
 </div>
 
-<!-- ================= BADGES ================= -->
-<p align="center">
-  <img src="https://img.shields.io/badge/IIIT%20Lucknow-Student-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Enthusiast-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Active-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-Consistent-red?style=for-the-badge" />
-</p>
 
 ---
 
