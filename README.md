@@ -39,6 +39,7 @@ focus:
   - Machine Learning & Deep Learning
   - Large Language Models (LLMs)
   - Generative AI Systems
+  -  Improving **SQL & data analysis skills**
 
 currently_building:
   - Machine Learning & Deep Learning Projects 
