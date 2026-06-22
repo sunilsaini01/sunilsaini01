@@ -24,12 +24,28 @@
 
 ---
 
+<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=2&section=header" width="100%"/>
+
 ## 🧠 About Me
 
-- 🎓 MSc Artificial Intelligence And Machine Learning student at **IIIT Lucknow**  
-- 💡 Passionate about solving **real-world problems using ML & Data**  
-- 🚀 Exploring **Deep Learning, LLMs, and Generative AI**  
-- 🧠 Strong foundation in **Machine Learning + Problem Solving**  
+```yaml
+name     : Sunil Kumar 
+degree   : MSc Artificial Intelligence & Machine Learning
+college  : IIIT Lucknow
+location : Uttar Pradesh, India
+
+focus:
+  - Machine Learning & Deep Learning
+  - Large Language Models (LLMs)
+  - Generative AI Systems
+
+currently_building:
+  - Machine Learning & Deep Learning Projects 
+  - GenAI-powered applications
+
+Quote    : "Build. Break. Learn. Repeat."
+```
 
 ---
 ## 🎯 Current Focus
