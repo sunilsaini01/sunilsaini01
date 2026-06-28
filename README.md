@@ -3,7 +3,7 @@
 <h3 align="center">MSc AI $ ML @ IIIT Lucknow | ML • GenAI • DSA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Machine+Learning+%7C+Predictive+Modeling;Machine+Learning+Engineer+in+Progress;LLMs+%7C+GenAI+Explorer;DSA+Practitioner&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.demolab.com?lines=Machine+Learning+%7C+Predictive+Modeling;Machine+Learning+Engineer+in+Progress;LLMs+%7C+GenAI+Explorer&center=true&width=550&height=45">
 </a>
 
 <!-- ═══════════════════ PROFILE VIEWS + FOLLOWERS ═══════════════════ -->
@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/IIIT%20Lucknow-Student-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-Enthusiast-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Active-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-Consistent-red?style=for-the-badge" />
 </p>
 
 
