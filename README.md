@@ -49,6 +49,11 @@ Quote    : "Build. Break. Learn. Repeat."
 ```
 
 ---
+## Achievements
+ 
+- Kaggle Expert — **Datasets**: rank 351/10,276 (top 3.4%), 1 silver + 2 bronze medal
+- Kaggle Expert — **Notebooks**: rank 2431/62,340 (top 4%), 5 bronze medals
+---
 
 ## 🌐 Connect With Me
 
